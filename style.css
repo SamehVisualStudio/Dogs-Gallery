@@ -1,0 +1,31 @@
+h1{
+    color: rgb(40, 7, 230);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(228, 154, 17, 0.616);
+    color: rgb(22, 4, 1);
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    margin-top: 20px;
+    height: 70px;
+    vertical-align: middle;
+    padding-top: 13px;
+    border-bottom: 5px solid red;
+    border-top: 5px solid black;
+}
+#gallery{
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: inherit;
+    border-radius: 10px;
+    border-bottom: 5px solid blue;
+    border-right: 5px solid grey;
+   
+}
+body{
+    background-color: rgba(36, 236, 226);
+}
+
